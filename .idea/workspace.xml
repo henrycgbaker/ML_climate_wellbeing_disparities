@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" afterDir="false" />
     </list>
@@ -75,7 +74,7 @@
       <workItem from="1715012092280" duration="5825000" />
       <workItem from="1715018651928" duration="221000" />
       <workItem from="1715073827511" duration="35000" />
-      <workItem from="1715073935566" duration="1251000" />
+      <workItem from="1715073935566" duration="3098000" />
     </task>
     <servers />
   </component>
@@ -94,6 +93,16 @@
           <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
           <line>589</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>492</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>700</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
