@@ -7,6 +7,7 @@
     <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Neuranet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuranet.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +77,10 @@
       <workItem from="1715073827511" duration="35000" />
       <workItem from="1715073935566" duration="3098000" />
       <workItem from="1715081949314" duration="750000" />
-      <workItem from="1715084376194" duration="1714000" />
+      <workItem from="1715084376194" duration="2383000" />
+      <workItem from="1715104300566" duration="3666000" />
+      <workItem from="1715247196520" duration="3270000" />
+      <workItem from="1715254169362" duration="60000" />
     </task>
     <servers />
   </component>
@@ -105,6 +109,31 @@
           <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
           <line>703</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>138</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>816</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>815</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>833</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/armandeaboudrar-meda/Desktop/Hertie/DataScienceSemester2/ML_climate_wellbeing_disparities/Combined_Clean_Version_Final.ipynb</url>
+          <line>838</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
