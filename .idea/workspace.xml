@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural_net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neural_net.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Jupyter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -47,10 +53,35 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -77,6 +108,13 @@
       <workItem from="1715073935566" duration="3098000" />
       <workItem from="1715081949314" duration="750000" />
       <workItem from="1715084376194" duration="1714000" />
+      <workItem from="1716369458337" duration="1007000" />
+      <workItem from="1716370479382" duration="127000" />
+      <workItem from="1716370634324" duration="715000" />
+      <workItem from="1716371515579" duration="3000" />
+      <workItem from="1716380317234" duration="6675000" />
+      <workItem from="1716389904729" duration="1246000" />
+      <workItem from="1716391676826" duration="768000" />
     </task>
     <servers />
   </component>
