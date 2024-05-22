@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="share only">
       <change beforePath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neural_net.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/neural_net.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,11 +111,34 @@
       <workItem from="1716380317234" duration="6675000" />
       <workItem from="1716389904729" duration="1246000" />
       <workItem from="1716391676826" duration="768000" />
+      <workItem from="1716392764354" duration="125000" />
     </task>
+    <task id="LOCAL-00001" summary="check">
+      <option name="closed" value="true" />
+      <created>1716392815799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716392815799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="share only">
+      <option name="closed" value="true" />
+      <created>1716392879543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716392879543</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="check" />
+    <MESSAGE value="share only" />
+    <option name="LAST_COMMIT_MESSAGE" value="share only" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
