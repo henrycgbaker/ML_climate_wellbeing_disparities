@@ -7,7 +7,6 @@
     <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Combined_Clean_Version_Final.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Neuranet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Neuranet.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,8 @@
       <workItem from="1715084376194" duration="2383000" />
       <workItem from="1715104300566" duration="3666000" />
       <workItem from="1715247196520" duration="3270000" />
-      <workItem from="1715254169362" duration="60000" />
+      <workItem from="1715254169362" duration="1322000" />
+      <workItem from="1716037699828" duration="1349000" />
     </task>
     <servers />
   </component>
