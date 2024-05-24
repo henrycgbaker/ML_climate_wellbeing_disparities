@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="trying class weights">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e7dab492-1568-4b47-b929-44dc3c243a02" name="Changes" comment="trying SMOTE">
       <change beforePath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Log_Reg_Combined_clean.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +112,7 @@
       <workItem from="1716389904729" duration="1246000" />
       <workItem from="1716391676826" duration="768000" />
       <workItem from="1716392764354" duration="125000" />
-      <workItem from="1716478013710" duration="15995000" />
+      <workItem from="1716478013710" duration="16444000" />
     </task>
     <task id="LOCAL-00001" summary="check">
       <option name="closed" value="true" />
@@ -139,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716552733077</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="trying SMOTE">
+      <option name="closed" value="true" />
+      <created>1716557559629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716557559629</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +156,8 @@
     <MESSAGE value="check" />
     <MESSAGE value="share only" />
     <MESSAGE value="trying class weights" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying class weights" />
+    <MESSAGE value="trying SMOTE" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying SMOTE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
